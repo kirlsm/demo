@@ -39,7 +39,7 @@
   border-width:0px;
   position:absolute;
   left:337px;
-  top:572px;
+  top:610px;
   width:420px;
   height:35px;
 }
@@ -81,7 +81,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:572px;
+  top:610px;
   width:67px;
   height:25px;
   font-size:16px;
@@ -99,7 +99,7 @@
   border-width:0px;
   position:absolute;
   left:337px;
-  top:607px;
+  top:645px;
   width:420px;
   height:239px;
 }
@@ -138,7 +138,7 @@
   border-width:0px;
   position:absolute;
   left:382px;
-  top:577px;
+  top:615px;
   width:20px;
   height:25px;
   font-size:16px;
@@ -176,7 +176,7 @@
   border-width:0px;
   position:absolute;
   left:394px;
-  top:577px;
+  top:615px;
   width:20px;
   height:25px;
   font-family:'Arial Cursiva', 'Arial Normal', 'Arial';
@@ -215,7 +215,7 @@
   border-width:0px;
   position:absolute;
   left:407px;
-  top:577px;
+  top:615px;
   width:20px;
   height:25px;
   font-size:16px;
@@ -242,7 +242,7 @@
   border-width:0px;
   position:absolute;
   left:352px;
-  top:577px;
+  top:615px;
   width:30px;
   height:25px;
 }
@@ -1858,7 +1858,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:394px;
+  top:432px;
   width:83px;
   height:25px;
   font-size:16px;
@@ -1876,7 +1876,7 @@
   border-width:0px;
   position:absolute;
   left:304px;
-  top:394px;
+  top:432px;
   width:151px;
   height:25px;
 }
@@ -1925,7 +1925,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:436px;
+  top:474px;
   width:49px;
   height:25px;
   font-size:16px;
@@ -1943,7 +1943,7 @@
   border-width:0px;
   position:absolute;
   left:304px;
-  top:436px;
+  top:474px;
   width:151px;
   height:25px;
 }
@@ -1982,7 +1982,7 @@
   border-width:0px;
   position:absolute;
   left:675px;
-  top:880px;
+  top:918px;
   width:82px;
   height:31px;
 }
@@ -2235,7 +2235,7 @@
   border-width:0px;
   position:absolute;
   left:304px;
-  top:351px;
+  top:350px;
   width:128px;
   height:25px;
 }
@@ -2274,7 +2274,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:351px;
+  top:350px;
   width:85px;
   height:25px;
   font-size:16px;
@@ -2308,7 +2308,7 @@
   border-width:0px;
   position:absolute;
   left:304px;
-  top:480px;
+  top:518px;
   width:128px;
   height:25px;
 }
@@ -2347,7 +2347,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:480px;
+  top:518px;
   width:85px;
   height:25px;
   font-size:16px;
@@ -2373,7 +2373,7 @@
   border-width:0px;
   position:absolute;
   left:442px;
-  top:480px;
+  top:518px;
   width:21px;
   height:21px;
 }
@@ -2390,7 +2390,7 @@
   border-width:0px;
   position:absolute;
   left:304px;
-  top:515px;
+  top:553px;
   width:128px;
   height:25px;
 }
@@ -2970,7 +2970,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:52px;
+  width:53px;
   white-space:nowrap;
 }
 #u2309 {
@@ -3051,4 +3051,93 @@
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
+}
+#u2312 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u2313 {
+  border-width:0px;
+  position:absolute;
+  left:304px;
+  top:390px;
+  width:128px;
+  height:25px;
+}
+#u2313_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:128px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u2314_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:85px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  text-align:center;
+}
+#u2314 {
+  border-width:0px;
+  position:absolute;
+  left:221px;
+  top:390px;
+  width:85px;
+  height:25px;
+  font-size:16px;
+  text-align:center;
+}
+#u2314_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:85px;
+  word-wrap:break-word;
+}
+#u2315 {
+  border-width:0px;
+  position:absolute;
+  left:446px;
+  top:392px;
+  width:70px;
+  height:22px;
+}
+#u2315_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:22px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+}
+#u2315_input:disabled {
+  color:grayText;
 }
